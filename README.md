@@ -4,6 +4,12 @@ Provides the experiments for Lamberti 2022 (https://arxiv.org/abs/2201.11857).  
 
 ## Files
 
+Each experiment has associated Python and R files.  The general framework to reproduce these experiments is as follows:
+
+1. Create the associate data folder structure to save the simulated images. 
+2. Run the associated Python script.
+3. Run the associated R script. 
+
 ### norms.zip 
 
 ### qqnorm.zip
@@ -16,9 +22,9 @@ Provides the experiments for Lamberti 2022 (https://arxiv.org/abs/2201.11857).  
 
 Below is the associated information regarding the computer used to run these experiments:
 
-Computer: MacBook Pro (Retina, 13-inch, Early 2015)
-Processor: 2.7 GHz Dual-Core Intel Core i5
-Memory: 8 GB 1867 MHz DDR3
+Computer: MacBook Pro (Retina, 13-inch, Early 2015)<br />
+Processor: 2.7 GHz Dual-Core Intel Core i5<br />
+Memory: 8 GB 1867 MHz DDR3<br />
 
 ### Python Information
 

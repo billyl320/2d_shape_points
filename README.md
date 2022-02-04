@@ -14,6 +14,127 @@ Provides the experiments for Lamberti 2022 (https://arxiv.org/abs/2201.11857).  
 
 ## System Information
 
+Below is the associated information regarding the computer used to run these experiments:
+
+Computer: MacBook Pro (Retina, 13-inch, Early 2015)
+Processor: 2.7 GHz Dual-Core Intel Core i5
+Memory: 8 GB 1867 MHz DDR3
+
+### Python Information
+
+Below is a list of the installed version of the Python libraries (as of February 2022):
+
+absl-py==1.0.0<br />
+aiohttp==3.6.2<br />
+aiohttp-json-rpc==0.13.1<br />
+aiosqlite==0.15.0<br />
+appdirs==1.4.4<br />
+apsw-wheels==3.30.1.post3<br />
+astunparse==1.6.3<br />
+async-timeout==3.0.1<br />
+asyncpg==0.20.1<br />
+attrs==19.3.0<br />
+Babel==2.8.0<br />
+beautifulsoup4==4.9.3<br />
+bs4==0.0.1<br />
+cachetools==4.2.4<br />
+certifi==2021.10.8<br />
+cffi==1.15.0<br />
+chardet==3.0.4<br />
+charset-normalizer==2.0.7<br />
+chromedriver-binary==93.0.4577.15.0<br />
+click==7.1.2<br />
+colorama==0.4.3<br />
+contextlib2==0.6.0.post1<br />
+cycler==0.10.0<br />
+decorator==4.4.2<br />
+discord.py==1.4.1<br />
+flatbuffers==2.0<br />
+fuzzywuzzy==0.18.0<br />
+gast==0.4.0<br />
+google-auth==2.3.3<br />
+google-auth-oauthlib==0.4.6<br />
+google-pasta==0.2.0<br />
+grpcio==1.41.1<br />
+h5py==3.5.0<br />
+idna==2.10<br />
+imagecodecs==2021.6.8<br />
+imageio==2.9.0<br />
+Jinja2==3.0.3<br />
+joblib==1.0.1<br />
+keras==2.7.0<br />
+Keras-Preprocessing==1.1.2<br />
+kiwisolver==1.3.1<br />
+kneed==0.7.0<br />
+libclang==12.0.0<br />
+Markdown==3.2.2<br />
+MarkupSafe==2.0.1<br />
+matplotlib==3.4.2<br />
+multidict==4.7.6<br />
+networkx==2.5.1<br />
+numpy==1.20.3<br />
+oauthlib==3.1.1<br />
+opt-einsum==3.3.0<br />
+pandas==1.2.4<br />
+Pillow==8.2.0<br />
+protobuf==3.19.1<br />
+pyasn1==0.4.8<br />
+pyasn1-modules==0.2.8<br />
+pycparser==2.21<br />
+pyparsing==2.4.7<br />
+PyQt3D==5.15.5<br />
+PyQt5==5.15.6<br />
+PyQt5-sip==12.9.0<br />
+PyQtChart==5.15.5<br />
+PyQtDataVisualization==5.15.5<br />
+PyQtNetworkAuth==5.15.5<br />
+PyQtPurchasing==5.15.5<br />
+PyQtWebEngine==5.15.5<br />
+python-dateutil==2.8.1<br />
+python-Levenshtein-wheels==0.13.1<br />
+pytz==2020.1<br />
+pytz-deprecation-shim==0.1.0.post0<br />
+PyWavelets==1.1.1<br />
+PyYAML==5.3.1<br />
+QScintilla==2.13.1<br />
+Red-DiscordBot==3.4.0<br />
+Red-Lavalink==0.6.0<br />
+requests==2.26.0<br />
+requests-oauthlib==1.3.0<br />
+rpy2==3.4.5<br />
+rsa==4.7.2<br />
+schema==0.7.2<br />
+scikit-image==0.18.2<br />
+scikit-learn==0.24.2<br />
+scipy==1.6.3<br />
+selenium==3.141.0<br />
+six==1.16.0<br />
+sklearn==0.0<br />
+soupsieve==2.2.1<br />
+TBB==0.2<br />
+tensorboard==2.7.0<br />
+tensorboard-data-server==0.6.1<br />
+tensorboard-plugin-wit==1.8.0<br />
+tensorflow==2.7.0<br />
+tensorflow-estimator==2.7.0<br />
+tensorflow-io-gcs-filesystem==0.22.0<br />
+termcolor==1.1.0<br />
+threadpoolctl==2.1.0<br />
+tifffile==2021.7.2<br />
+tqdm==4.48.0<br />
+typing-extensions==3.7.4.2<br />
+tzdata==2021.5<br />
+tzlocal==4.1<br />
+urllib3==1.26.6<br />
+uvloop==0.14.0<br />
+Werkzeug==2.0.2<br />
+wrapt==1.13.3<br />
+yarl==1.5.1<br />
+
+
+### R Information
+
+Here is the system info associated with the R sessions:
 
 R version 4.1.0 (2021-05-18)<br />
 Platform: x86_64-apple-darwin17.0 (64-bit)<br />

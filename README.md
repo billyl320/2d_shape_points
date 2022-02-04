@@ -18,6 +18,16 @@ Each experiment has associated Python and R files.  The general framework to rep
 
 ### ols_uneq_var.zip
 
+1. Data folder structure:
+   -none<br />
+   -data<br />
+     --mod1<br />
+     --mod2<br />
+     --mod3<br />
+     --mod4<br />
+2. Run Python script: uneq_var_shape.py
+3. Run R script: mods_tree_class.r
+
 ## System Information
 
 Below is the associated information regarding the computer used to run these experiments:

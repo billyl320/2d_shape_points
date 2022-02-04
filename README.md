@@ -18,7 +18,7 @@ Each experiment has associated Python and R files.  The general framework to rep
 
 ### ols_uneq_var.zip
 
-1. Data folder structure:
+1. Data folder structure:<br />
    -none<br />
    -data<br />
      --mod1<br />

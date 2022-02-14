@@ -16,6 +16,16 @@ Each experiment has associated Python and R files.  The general framework to rep
 
 ### mods.zip 
 
+1. Data folder structure:<br />
+   -none<br />
+   -data<br />
+     --mod1<br />
+     --mod2<br />
+     --mod3<br />
+     --mod4<br />
+2. Run Python script: mods_shape.py
+3. Run R script: mods_tree_class.r
+
 ### ols_uneq_var.zip
 
 1. Data folder structure:<br />

@@ -12,7 +12,43 @@ Each experiment has associated Python and R files.  The general framework to rep
 
 ### norms.zip 
 
+1. Data folder structure:<br />
+    -gauss_den_differ<br />
+    -gauss_means_differ<br />
+      --none<br />
+      --data<br />
+        ---dist1<br />
+        ---dist2<br />
+        ---none<br />
+    -gauss_mix<br />
+      --none<br />
+      --mix_gauss_imgs<br />
+        ---tad1<br />
+        ---tad2<br />
+        ---tad3<br />
+        ---tad4<br />
+    -gauss_vars_differ<br />
+2. While in /guass_dens_differ, run Python script: multi_norm_shape_varying_density.py
+3. While in /guass_dens_differ, run R script: multivariate_norms_var.r
+4. While in /guass_means_differ, run Python script: multi_norm_shape.py
+5. While in /guass_means_differ, run R script: multivariate_norms.r
+6. While in /guass_mix, run Python script: .py
+7. While in /guass_mix, run R script: tads_tree_class.r
+8. While in /guass_vars_differ, run Python script: multi_norm_shape.py
+9. While in /guass_vars_differ, run R script: multivariate_norms.r
+
+
 ### qqnorm.zip
+
+1. Data folder structure:<br />
+   -none<br />
+   -data<br />
+     --q1<br />
+     --q2<br />
+     --q3<br />
+     --q4<br />
+2. Run Python script: qqnorm_shape.py
+3. Run R script: qqnorm_tree_class.r
 
 ### mods.zip 
 

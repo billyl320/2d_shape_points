@@ -32,6 +32,10 @@ Each experiment has associated Python and R files.  The general framework to rep
         ---tad3<br />
         ---tad4<br />
     -gauss_vars_differ<br />
+      --none<br />
+      --norm_den.zip<br />
+        ---dist1<br />
+        ---dist2<br />
 2. While in /guass_dens_differ (assuming that you have unzipped norm_var.zip), run Python script: multi_norm_shape_varying_density.py
 3. While in /guass_dens_differ, run R script: multivariate_norms_var.r
 4. While in /guass_means_differ, run Python script: multi_norm_shape.py

@@ -1,6 +1,6 @@
 # Using Shape Metrics to Describe 2D Data
 
-Provides the experiments for Lamberti 2022 (https://arxiv.org/abs/2201.11857).  Each zip file has corresponds to a given set of experiments using R. 
+Provides the experiments for Lamberti 2022 (https://arxiv.org/abs/2201.11857).  Each zip file has corresponds to a given set of experiments using Python and R. 
 
 ## Files
 
@@ -40,7 +40,7 @@ Each experiment has associated Python and R files.  The general framework to rep
 3. While in /guass_dens_differ, run R script: multivariate_norms_var.r
 4. While in /guass_means_differ, run Python script: multi_norm_shape.py
 5. While in /guass_means_differ, run R script: multivariate_norms.r
-6. While in /guass_mix, run Python script: .py
+6. While in /guass_mix, run Python script: mix_gauss_shape.py (Note: the original script was lost, and so this script was recreated.  Thus, the exact resulting images may differ from the original due to different random seeds.)
 7. While in /guass_mix, run R script: tads_tree_class.r
 8. While in /guass_vars_differ, run Python script: multi_norm_shape.py
 9. While in /guass_vars_differ, run R script: multivariate_norms.r
